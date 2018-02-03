@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Image not found!](/static/img/about.png)
+![Image not found!](/static/img/about.jpg)
 
 About
 =====
