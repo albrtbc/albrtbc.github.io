@@ -4,7 +4,7 @@ title: First post!!
 description: Inaugurating the new blog!
 author: Albert Blanco
 tag: ["greetings!"]
-thumbnail: /assets/2018/02/03/hello-world.png
+thumbnail: /assets/2018/02/03/
 repo_url: 
 ---
 
