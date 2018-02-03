@@ -3,6 +3,7 @@ layout: post
 title: First post
 description: Inaugurating the new blog!
 tag: ["greetings!"]
+author: Albert Blanco
 thumbnail: /assets/2018/02/03/hello-world.png
 repo_url: 
 ---
