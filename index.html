@@ -4,6 +4,9 @@ title: Home
 ---
 
 <div class="catalogue">
+  <img src="/static/img/blog-header.jpg" alt="Albert Blanco - Blog">
+<div>
+<div class="catalogue">
   {% for post in paginator.posts %}
   <div class="catalogue-item">
     <a href="{{ post.url | prepend: site.url }}" class="nohighlight">
