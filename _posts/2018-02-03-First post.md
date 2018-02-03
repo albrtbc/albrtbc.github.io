@@ -2,13 +2,15 @@
 layout: post
 title: First post
 description: Inaugurating the new blog!
-tag: ["greetings!"]
 author: Albert Blanco
+tag: ["greetings!"]
 thumbnail: /assets/2018/02/03/hello-world.png
 repo_url: 
 ---
 
 First post!!
+
+![Image not found!](/assets/2018/02/03/hello-world.png)
 
 {% highlight python %}
 

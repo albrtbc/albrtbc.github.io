@@ -13,6 +13,7 @@ from argparse import ArgumentParser
 parser = ArgumentParser()
 parser.add_argument('-t', '--title', required=True,              help='post title')
 parser.add_argument('-d', '--description',                       help='post description')
+parser.add_argument('-a', '--author',                            help='post author')
 parser.add_argument('-l', '--tags',                              help='post tags')
 parser.add_argument('-i', '--thumbnail',                         help='post thumbnail')
 
@@ -20,6 +21,7 @@ args = vars(parser.parse_args())
 
 post_title = args['title']
 post_des   = args['description'] if args['description'] else ''
+post_author   = args['author'] if args['author'] else 'Albert Blanco'
 post_tags  = args['tags'] if args['tags'] else ''
 post_thumb = args['thumbnail'] if args['thumbnail'] else ''
 
@@ -39,6 +41,7 @@ def main():
 		file.write("layout: post\n")
 		file.write("title: "  + post_title + "\n")
 		file.write("description: %s\n" % (post_des))
+		file.write("author: %s\n" % (post_des))
 		file.write("tag: %s\n" % (post_tags))
 		file.write("thumbnail: /assets/%s%s\n" % (date_path, post_thumb))
 		file.write("repo_url: \n")
