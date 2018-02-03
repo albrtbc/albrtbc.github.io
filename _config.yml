@@ -5,7 +5,7 @@ author:
   url: albrtbc.github.io
 
 # Site settings
-title: Albert Blanco Blog!
+title: Albert Blanco
 description: >
     A place where I can drop code snippets and how-to's of various projects I'm working on.
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -23,7 +23,7 @@ youtube_username:
 youtube_url: 
 
 # analytics
-google_analytics: 
+google_analytics: UA-113522886-1
 
 # Build settings
 markdown: kramdown

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post
+title: First post!!
 description: Inaugurating the new blog!
 author: Albert Blanco
 tag: ["greetings!"]
@@ -8,9 +8,11 @@ thumbnail: /assets/2018/02/03/hello-world.png
 repo_url: 
 ---
 
-First post!!
+Welcome this is my first post!!
 
 ![Image not found!](/assets/2018/02/03/hello-world.png)
+
+Testing some stuff:
 
 {% highlight python %}
 
@@ -21,4 +23,4 @@ def main:
 
 {% endhighlight %}
 
-Let's have some fun :)
+Great, let's have some fun :)
