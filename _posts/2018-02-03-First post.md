@@ -3,7 +3,7 @@ layout: post
 title: First post
 description: Inaugurating the new blog!
 tag: ["greetings!"]
-thumbnail: /assets/2015/01/17/hello-world.png
+thumbnail: /assets/2018/02/03/hello-world.png
 repo_url: 
 ---
 
