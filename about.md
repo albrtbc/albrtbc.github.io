@@ -13,6 +13,6 @@ I'm going to use this space to write about technology articles, personal side pr
 
 ### Contact me
 
-[Website](https://www.blancocuaresma.com/a)
-[Github](https://github.com/albrtbc)
+[Website](https://www.blancocuaresma.com/a)  
+[Github](https://github.com/albrtbc)  
 [Twitter](http://twitter.com/albrt_bc)
