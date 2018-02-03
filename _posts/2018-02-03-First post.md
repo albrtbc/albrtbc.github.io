@@ -19,7 +19,7 @@ Testing some stuff:
 def main:
     s = 'Hello world!'
     
-    print s
+    print(s)
 
 {% endhighlight %}
 

@@ -7,7 +7,7 @@ author:
 # Site settings
 title: Albert Blanco
 description: >
-    A place where I can drop code snippets and how-to's of various projects I'm working on.
+    A place where I can drop code snippets, tech articles and how-to's of various projects I'm working on.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://albrtbc.github.io" # the base hostname & protocol for your site
 
